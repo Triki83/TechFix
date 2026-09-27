@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.card-img-top{
+    height: 220px;
+    object-fit: cover;
+}
+
+#pocetna{
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+}
+
+
+
